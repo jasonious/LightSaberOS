@@ -272,7 +272,7 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________  
 
-### HOW TO MANAGE YOUR SDCRAD
+### HOW TO MANAGE YOUR SDcard
 #### 1. For DFPlayer Mini
 
 While there are several ways to make DFPlayer Mini plays your sound files from your SDard, only one can provide full gapless sound "enqueuing" : we need to call each sound file by their copy order number.    
